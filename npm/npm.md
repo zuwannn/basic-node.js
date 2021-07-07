@@ -8,4 +8,4 @@ npm install (package name)
 <br>
 npm install -g (package name)
 
-<h1>NPM จะสร้างโฟลเดอร์ที่ชื่อ "node_modules" ขึ้นมาในโปรเจค และทุก package ที่ install จะมาอยู่ในโฟลเดอร์นี้ </h1>
+<h4>NPM จะสร้างโฟลเดอร์ที่ชื่อ "node_modules" ขึ้นมาในโปรเจค และทุก package ที่ install จะมาอยู่ในโฟลเดอร์นี้ </h4>
