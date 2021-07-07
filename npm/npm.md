@@ -1,11 +1,11 @@
 # npm 
 <h3>การ install node package ลงในโปรเจค (Local)</h3>
 <br>
-npm install <package>
+npm install (package name)
 
 
 <h3>การ install node package (Global)</h3>
 <br>
-npm install -g <package>
+npm install -g (package name)
 
-<h2>NPM จะสร้างโฟลเดอร์ที่ชื่อ "node_modules" ขึ้นมาในโปรเจค และทุก package ที่ install จะมาอยู่ในโฟลเดอร์นี้ </h2>
+<h1>NPM จะสร้างโฟลเดอร์ที่ชื่อ "node_modules" ขึ้นมาในโปรเจค และทุก package ที่ install จะมาอยู่ในโฟลเดอร์นี้ </h1>
