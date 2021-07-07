@@ -8,4 +8,10 @@ http.createServer(function (req, res) {
   res.end(); //end the response
 }).listen(8080); //the server object listens on port 8080 
 
-//  http://localhost:8080/ 
+// การทำงาน
+// server จะรอ request อยู่ที่ http://localhost:8080 
+// และเมื่อได้รับ request แล้ว จะส่ง header ให้ client 
+// โดยมี status code = 200, Content-type เป็น text/plain 
+// และแสดงข้อความว่า Hello World! 
+
+// https://zakoschool.herokuapp.com/lesson/nodejs/http
