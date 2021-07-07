@@ -1,8 +1,6 @@
 # basic-node.js
  learn basic node.js
-<br> npm init
-example npm install
-<br>npm install express express-fileupload body-parser mysql ejs req-flash --save
 
-<br> npm install nodemon -g
-(nodemon  install global)
+npm init<br>
+npm install express<br> express-fileupload body-parser mysql ejs req-flash --save<br>
+npm install nodemon -g<br>
